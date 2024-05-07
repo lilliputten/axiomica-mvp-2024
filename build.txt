@@ -1,0 +1,6 @@
+Project: axiomica-mvp-2024
+Version: 0.0.0
+Branch: main
+Commit: 1d16c27
+Fixed: 2024.05.07 17:55 +0300
+Built: 2024.05.07 17:55 +0300
