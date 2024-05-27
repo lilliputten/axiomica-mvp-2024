@@ -1,6 +1,6 @@
 Project: axiomica-mvp-2024
-Version: 0.0.1
-Branch: 2-create-basic-app-pages
-Commit: 1e3361e
-Fixed: 2024.05.16 16:21 +0300
-Built: 2024.05.16 16:21 +0300
+Version: 0.0.2
+Branch: 13-different-question-types
+Commit: 289aaa4
+Fixed: 2024.05.27 03:40 +0300
+Built: 2024.05.27 03:40 +0300
