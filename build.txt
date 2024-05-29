@@ -1,6 +1,6 @@
 Project: axiomica-mvp-2024
 Version: 0.0.2
-Branch: 13-different-question-types
-Commit: 289aaa4
-Fixed: 2024.05.27 03:40 +0300
-Built: 2024.05.27 03:40 +0300
+Branch: 21-basic-survey-editing
+Commit: 16ba3c2
+Fixed: 2024.05.29 22:50 +0300
+Built: 2024.05.29 22:50 +0300
