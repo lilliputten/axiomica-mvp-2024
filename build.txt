@@ -1,6 +1,6 @@
 Project: axiomica-mvp-2024
-Version: 0.0.2
-Branch: 21-basic-survey-editing
-Commit: 16ba3c2
-Fixed: 2024.05.29 22:50 +0300
-Built: 2024.05.29 22:50 +0300
+Version: 0.0.3
+Branch: main
+Commit: 4d8a39c
+Fixed: 2024.06.05 00:48 +0300
+Built: 2024.06.05 00:48 +0300
